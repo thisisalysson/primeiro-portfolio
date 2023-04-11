@@ -1,2 +1,2 @@
-# primeiro portfólio
-Meu primeiro portfólio criado com HTML, CSS.
+# Primeiro portfólio
+Meu primeiro portfólio criado com HTML e CSS.
